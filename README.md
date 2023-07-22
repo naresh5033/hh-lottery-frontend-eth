@@ -48,3 +48,5 @@ Once we deployed in fleek it will give a regular URL and also deploy our site on
 
 File coin is a BC that actually helps us to pin our data and uses decentralized storage.\
 The file coin is a storage designed for web3
+
+the is redeployed in netlify and the [deployed url is](https://phenomenal-macaron-5814df.netlify.app/)
